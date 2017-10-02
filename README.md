@@ -6,8 +6,8 @@
 #    By: kmuvezwa <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/10/02 12:04:29 by kmuvezwa          #+#    #+#              #
-#    Updated: 2017/10/02 12:05:38 by kmuvezwa         ###   ########.fr        #
+#    Updated: 2017/10/02 12:08:05 by kmuvezwa         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-Some small php project from a short We Think Code_/42 PHP Bootcamp
+Some small php projects from a short We Think Code_/42 PHP Bootcamp
